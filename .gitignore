@@ -1,0 +1,9 @@
+node_modules
+.vscode
+
+.env
+bun.lockb
+db.json
+
+src_old
+build
